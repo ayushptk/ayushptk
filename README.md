@@ -68,6 +68,7 @@ Message me now to discuss your project or let’s build something powerful toget
 </div>
 
 ###
+<h2 align="left">Contact me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ayush---pathak/" target="_blank">
