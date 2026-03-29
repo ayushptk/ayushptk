@@ -8,7 +8,7 @@
 ###
 
 <h2 align="left">About me</h2>
-I’m a creative Full Stack Developer with 4+ years of experience in
+I’m a  Full Stack Developer with 4+ years of experience in
 React
 Next.js
 TypeScript
