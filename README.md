@@ -1,4 +1,4 @@
-<h1 align="left">Hii👋 I'm Ayush Pathak</h1>
+2<h1 align="left">Hii👋 I'm Ayush Pathak</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 <br clear="both">
 <img align="right" height="180" src="https://camo.githubusercontent.com/215eecf761f9def174ef9c4fef58d296380cda28f475d71ef8bd524a6ef13275/68747470733a2f2f756e726561642e746f6461792f66696c65732f39363961316165642d373761342d343565392d623762372d3365653237303961616633312f62393832636334336165306436323366373438356432313236323331633935312e676966" >
 
-<p align="left">📚 I'm currently learning Backend Developement<br>🎯 Goals: Full Stack Developer<br>💬 Ask me about Web Developement<br>📫 How to reach me: ptkaayush13@gmail.com</p>
+ How to reach me: ptkaayush13@gmail.com</p>
 
 ###
 
