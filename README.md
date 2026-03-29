@@ -1,4 +1,4 @@
-2<h1 align="left">Hii👋 I'm Ayush Pathak</h1>
+<h1 align="left">Hii👋 I'm Ayush Pathak</h1>
 
 ###
 
@@ -8,6 +8,16 @@
 ###
 
 <h2 align="left">About me</h2>
+I’m a creative Full Stack Developer with 4+ years of experience in
+React
+Next.js
+TypeScript
+FastAPI
+MERN stack
+
+I design and develop  responsive web applications with strong UI/UX and SEO optimization.
+
+Message me now to discuss your project or let’s build something powerful together.
 
 ###
 <br clear="both">
